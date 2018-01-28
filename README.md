@@ -1,8 +1,6 @@
 # Herramientas Computacionales IMEC3602 Semestre 201820-
-+
+
 +Primer repositorio de clase
-+
-+
 +#¿Quien soy?
 +
 +Juan Sebastian Carrillo Becerra
